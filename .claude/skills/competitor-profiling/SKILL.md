@@ -21,8 +21,6 @@ Before profiling, confirm:
 3. **Depth level** — quick scan (key facts only) or deep profile (full research)
 4. **Focus areas** — any specific dimensions to prioritize (e.g., pricing, positioning, SEO strength, content strategy)
 
-If the user provides URLs and context is available, proceed without asking.
-
 ---
 
 ## Core Principles
