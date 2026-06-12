@@ -1,0 +1,10 @@
+{
+  "name": "remotion-video",
+  "description": "",
+  "source": "wshuyi/remotion-video-skill",
+  "sourceType": "github",
+  "subpath": "",
+  "installedAt": "2026-06-12T00:00:00.000Z",
+  "enabled": true,
+  "checksum": "4cb28d17ab81efdf"
+}
