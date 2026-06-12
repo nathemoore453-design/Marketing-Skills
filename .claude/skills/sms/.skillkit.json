@@ -1,0 +1,10 @@
+{
+  "name": "sms",
+  "description": "",
+  "source": "coreyhaines31/marketingskills",
+  "sourceType": "github",
+  "subpath": "sms",
+  "installedAt": "2026-06-12T13:42:25.025Z",
+  "enabled": true,
+  "checksum": "bf649cfac0e3851f"
+}
