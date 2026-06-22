@@ -1,7 +1,7 @@
 import React from "react";
 import {
   AbsoluteFill,
-  Video,
+  OffthreadVideo,
   useCurrentFrame,
   useVideoConfig,
   interpolate,
@@ -144,7 +144,7 @@ export const ViralVideo = () => {
           transition: "transform-origin 0s",
         }}
       >
-        <Video src={staticFile("source.mp4")} startFrom={0} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+        <OffthreadVideo src={staticFile("source.mp4")} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
       </AbsoluteFill>
 
       <VignetteOverlay />
