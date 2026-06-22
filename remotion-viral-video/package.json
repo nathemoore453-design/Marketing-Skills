@@ -1,0 +1,22 @@
+{
+  "name": "remotion-viral-video",
+  "version": "1.0.0",
+  "description": "Viral video editor powered by Remotion",
+  "main": "src/index.jsx",
+  "scripts": {
+    "studio": "npx remotion studio src/index.jsx",
+    "render": "npx remotion render src/index.jsx ViralVideo out/viral-output.mp4",
+    "render:still": "npx remotion still src/index.jsx ViralVideo out/preview.png"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remotion/cli": "^4.0.482",
+    "@remotion/media-utils": "^4.0.482",
+    "@remotion/player": "^4.0.482",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "remotion": "^4.0.482"
+  }
+}
